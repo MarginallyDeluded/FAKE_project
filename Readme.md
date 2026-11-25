@@ -154,11 +154,3 @@ Inspecting the highest-magnitude weights in `LinearSVC` reveals three distinct s
 ## Author
 
 * **Raajjyoti_Deb** . Roll no. '35530824047' . GKCIET, Malda, West Bengal, B-Tech CSE(AI-ML)
-
-## Next Steps
-
-* \[ \] Run an **artifact-scrubbed ablation** removing CMS boilerplate (`featured image`, `read more`, `via`, `getty`) and social remnants (`pic twitter`, `https`) to measure pure linguistic generalization.
-
-* \[ \] Add threshold-independent **ROC-AUC curves** using `LinearSVC.decision_function()`.
-
-* \[ \] Benchmark contextual transformer embeddings (e.g., DistilBERT / RoBERTa) against the `0.9750` F1 `LinearSVC` baseline.
