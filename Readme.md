@@ -1,12 +1,13 @@
 # Fake News Classification & Feature Processing, and LDA on WELFake dataset
 
+
+A systematic classical machine learning and NLP benchmark on the **WELFake** news dataset (`72,070` articles), evaluating how lexical, stylometric, topical, and combined feature representations impact classifier geometry, generalization, and susceptibility to dataset artifacts.
+
 Mini Project Assignment SD:-10.11.2026 ED:-25.11.2026
 
 For Course: Introduction to Machine Learning
 
 Course Code: PCCAIML 502
-
-A systematic classical machine learning and NLP benchmark on the **WELFake** news dataset (`72,070` articles), evaluating how lexical, stylometric, topical, and combined feature representations impact classifier geometry, generalization, and susceptibility to dataset artifacts.
 
 ## Overview & Motivation
 
