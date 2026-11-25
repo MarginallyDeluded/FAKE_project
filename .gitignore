@@ -1,0 +1,6 @@
+venv/
+.ipynb_checkpoints/
+__pycache__/
+*.csv
+norm_data/*.joblib
+norm_data/*.npz
